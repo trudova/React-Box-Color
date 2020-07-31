@@ -1,0 +1,14 @@
+
+button{
+  position: relative;
+  margin-top: 10%;
+  width: 250px;
+  height: 250px;
+  box-shadow:10px 10px 10px rgb(65, 244, 244);
+  font-family: fantasy;
+  font-size: 30px;
+}
+div{
+  text-align: center;
+  font-family: fantasy;
+}
